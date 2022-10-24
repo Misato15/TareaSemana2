@@ -1,0 +1,17 @@
+{
+  "name": "tarea_semana_2",
+  "version": "0.0.1",
+  "description": "Aplicación que permite gestionar un archivo JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "JSON",
+    "CRUD",
+    "semana2",
+    "progra4"
+  ],
+  "author": "Salvador Chinchilla",
+  "license": "ISC"
+}
